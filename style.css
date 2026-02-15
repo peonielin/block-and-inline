@@ -40,17 +40,22 @@ body {
 
 .title {
   background: #e3f4ff;
+  font-weight: bold;
+  font-size:16px;
 }
 
 .content {
   background: #e3f4ff;
+  font-size:16px;
 }
 
 .button-container {
   background: #e3f4ff;
+  font-size:16px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  font-size:16px;
 }
